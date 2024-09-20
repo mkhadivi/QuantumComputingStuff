@@ -1,3 +1,3 @@
 # Some Quantum Computing Stuff
 
-early Begining
+early Beginning
